@@ -1,2 +1,2 @@
 # Timetable
-Classs timetable built with HTML
+A simple timetable created while learing HTML & CSS
